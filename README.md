@@ -1,4 +1,4 @@
-## Easy-Google-Map-Search
+# Easy-Google-Map-Search
 
 A simple python program that can easily show you places on Google Map.
 
